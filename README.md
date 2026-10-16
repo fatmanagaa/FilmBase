@@ -1,11 +1,11 @@
 
-# 🎬 Movie App
+# 🎬 FilmBase
 
-**Movie App** is a Flutter-based mobile application built with **Clean Architecture** principles.
+**FilmBase** is a Flutter-based mobile application built with **Clean Architecture** principles.
 It allows users to browse, search, and view detailed information about movies while providing authentication, profile management, and a smooth responsive UI.
 
 **Demo / Screen Recording:**
-[Watch the Movie App Demo](https://drive.google.com/file/d/1yVCqPI3b4lf6MdrfZtAK2vGY3k4uouX7/view?usp=sharing)
+[Watch the FilmBase Demo](https://drive.google.com/file/d/1yVCqPI3b4lf6MdrfZtAK2vGY3k4uouX7/view?usp=sharing)
 
 ---
 
